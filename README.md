@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [triz](https://github.com/magery-ai/triz-skill) - Solves trade-off problems with TRIZ: names the contradiction, looks up Altshuller's matrix and the 40 principles, validates with the user and writes a dated plan.
 
 
 ## 🎬 Media & Content
